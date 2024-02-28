@@ -1,7 +1,5 @@
 export const App = () => {
   return (
-      <p>
-        hello world
-      </p>
+      <p>Ambiente de homologação</p>
   )
 }
